@@ -241,12 +241,12 @@ Your name becomes our petition. Our petition becomes our power.
 ### If you are a Journalist or Researcher:
 - This repository is a **citable primary source document**
 - Citation format below
-- Contact: dhaf.india@gmail.com
+- Contact: contactdrprakash@gmail.com
 
 ### If you are a Policymaker or MP:
 - Full legislative draft: [DHAAA-2026.md](DHAAA-2026.md)
 - We are available for Parliamentary submission
-- Contact: dhaf.india@gmail.com
+- Contact: contactdrprakash@gmail.com
 
 ---
 
